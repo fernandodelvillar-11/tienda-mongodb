@@ -1,0 +1,11 @@
+# Variables de entorno — contiene credenciales, NO subir a GitHub
+.env
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Entornos virtuales
+venv/
+env/
